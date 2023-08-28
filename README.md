@@ -20,6 +20,8 @@ The system will consist of a collection of interacting classes/interfaces to sto
 
 The system will also include a unified “front end”, through the provision of an LMSModel façade interface (provided on Blackboard) that will offer a single point of entry for all high-level operations. This front end will support the testing of your program, independently of a graphical user interface, using the test harness. The façade is one of the fundamental OO design patterns which is intended to hide the system implementation specifics from outside clients. You can find a brief description of this pattern at http://en.wikipedia.org/wiki/Facade_pattern.
 
+![lms-2014](https://github.com/Andrew-Sanger/University-Project-04/assets/74388624/5d9d0691-aae7-4ad5-813d-a76b5216196a)
+
 ## 1. LMS Scenario
 
 The system will need to be modelled using a number of OO classes/interfaces. The main entities involved in the system, and their behaviours, are detailed below.
