@@ -3,7 +3,7 @@
 
 The first project in the Programming 2 course. This Java project required the use of a lot more complicated ideas such as UML, objects, abstraction, interfaces, facades etc.
 
-***NOTE: Some of the code containted within this assignment such as the test harness was written by the Professor, and is labelled as such at the top of the code. Anything else is my own creation.***
+***NOTE: Some of the code contained within this assignment such as the test harness was written by the Professor, and is labelled as such at the top of the code. Anything else is my own creation.***
 
 ## Background information (from the course notes)
 
